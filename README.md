@@ -94,13 +94,13 @@ _(based on view column)_
 ## Screenshots
 
 KPI Cards Example  
-![KPI Discount](https://bit.ly/BI-Project-KPI-Discount)
+![KPI Discount] (https://bit.ly/BI-Project-KPI-Discount)
 
 Dashboard Overview  
-![Dashboard Overview](https://bit.ly/BI-Project-Dashboard-Overview)
+![Dashboard Overview] (https://bit.ly/BI-Project-Dashboard-Overview)
 
 Line Chart Example  
-![Line Chart Example](https://bit.ly/BI-Project-LineCart)
+![Line Chart Example] (https://bit.ly/BI-Project-LineCart)
 
 ---
 
